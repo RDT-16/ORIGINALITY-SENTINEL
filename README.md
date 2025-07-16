@@ -75,7 +75,7 @@ Various algorithms like **Cosine Similarity**, **Jaccard Similarity**, and **Lev
 
 ### 4.1 Plagiarism Checker Architecture
 
-![Figure (a) - Plagiarism Checker Architecture](doc/fig(a).png)  
+![Figure (a) - Plagiarism Checker Architecture](/fig(a).png)  
 **Figure (a)**: Architecture of the system showing SCP Module, NDR Module, Neuro-Fuzzy Module, and Detection Phase.
 
 These modules work together to evaluate and process the input text, enabling effective plagiarism detection.
@@ -86,7 +86,7 @@ These modules work together to evaluate and process the input text, enabling eff
 
 The tool analyzes the input text and provides a similarity score with potential sources of plagiarized content.
 
-![Figure (b) - Output Screenshot](doc/fig(b).png)  
+![Figure (b) - Output Screenshot](/fig(b).png)  
 **Figure (b)**: Sample output showing similarity percentage and matched sources.
 
 ---
